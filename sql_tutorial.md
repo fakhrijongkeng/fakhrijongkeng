@@ -59,13 +59,12 @@ SELECT
 FROM
 	stephen_king.books;
 ````
-/*
 **Result**
-book_count|
-----------+
-        75|
 
-*/
+book_count|
+----------|
+        75
+
 
 -- 2. List the book id, capitalized title and number of pages from the top 5 books with greatest number of pages.
 
