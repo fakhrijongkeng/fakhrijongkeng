@@ -12,6 +12,17 @@ I am a data professional focused on designing and deploying scalable data pipeli
 
 ---
 
+### 📁 Featured Projects
+
+| Project Name | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **🚀 IHSG Trend Market Analysis using Clustering adn Classification Model** | Build clustering and classification algorithm for analysis market trading trend in IHSG Market | Python, ML | [Repo](https://github.com/fakhrijongkeng/Portofolio/tree/main/IHSG-MachineLearning) |
+| **📊 Real-time Analytics Dashboard** | A serverless Streamlit application integrated with GCP to track and visualize live infrastructure and automated workflow logs. | Streamlit, GCP, Python, Pandas | [Repo](https://github.com/fakhrijongkeng/streamlit-gcp-app) \| [Demo](https://streamlit-gcp-app-git-263566099963.us-central1.run.app/) |
+
+*(💡 Tip: Replace the placeholder text, repository links, and descriptions above with your actual projects!)*
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 | Category | Technologies |
