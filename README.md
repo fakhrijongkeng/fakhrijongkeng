@@ -39,7 +39,7 @@ I am a data professional focused on designing and deploying scalable data pipeli
 ### 📫 Connect With Me
 * **LinkedIn:** [linkedin.com/in/fakhri-akmal-4647a0241](https://www.linkedin.com/in/fakhri-akmal-4647a0241)
 * **Email:** [fakhrijongkeng12@gmail.com](mailto:fakhrijongkeng12@gmail.com)
-* **Website:** [Website](https://streamlit-gcp-app-git-263566099963.us-central1.run.app/)
+* **Website:** [Data & AI Portofolio](https://streamlit-gcp-app-git-263566099963.us-central1.run.app/)
 
 
 Let's build something efficient together! 🚀
